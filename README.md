@@ -25,10 +25,6 @@
 ## ➤ Моё резюме
 [Полная версия CV](https://loktionov129.github.io/)
 
-
-## ➤ Активность
-![Последний коммит](https://badgen.net/github/last-commit/loktionov129/loktionov129?label=Последний%20коммит)
-
 ## Технологии и инструменты
 ![C#](https://img.shields.io/badge/C"-239123?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD6?logo=dotnet&logoColor=white)
