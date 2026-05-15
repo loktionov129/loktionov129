@@ -26,7 +26,7 @@
 [Полная версия CV](https://loktionov129.github.io/)
 
 ## Технологии и инструменты
-![C#](https://img.shields.io/badge/C"-239123?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD6?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD6?logo=dotnet&logoColor=white)
 
