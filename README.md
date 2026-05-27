@@ -22,7 +22,7 @@
 - Telegram: [@a_leksandr1](https://t.me/a_leksandr1)
 - GitHub: [@loktionov129](https://github.com/loktionov129)
 
-## ➤ Моё резюме
+## Моё резюме
 [Полная версия CV](https://loktionov129.github.io/)
 
 ## Технологии и инструменты
